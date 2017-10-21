@@ -1,0 +1,8 @@
+header.masthead {
+	background-image: url("../img/athlete.png");
+	background-repeat: no-repeat;
+}
+.btn-primary {
+  color: white;
+  border-color: black;
+  background-color: #527c60; }
